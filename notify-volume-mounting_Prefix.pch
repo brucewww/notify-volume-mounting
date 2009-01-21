@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'notify-volume-mounting' target in the 'notify-volume-mounting' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
